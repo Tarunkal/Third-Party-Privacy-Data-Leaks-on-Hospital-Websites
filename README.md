@@ -68,12 +68,12 @@ Regularly audit third-party services to ensure compliance with privacy regulatio
 Figure 1: Network Traffic Logs
 
 
-Figure 2: Third-Party Data Requests
+
 
 ![Image](https://github.com/user-attachments/assets/34921a7e-a69e-4d61-b206-b8db00f780af)
-(Insert chart showing third-party request patterns)
+Figure 2: Third-Party Data Requests
 
-Figure 3: Privacy Policy Visibility
+
 
 ![Image](https://github.com/user-attachments/assets/203cbe3e-81a5-4cb4-a271-327b74499b76)
-(Insert graph comparing privacy policy accessibility across websites)
+Figure 3: Privacy Policy Visibility
