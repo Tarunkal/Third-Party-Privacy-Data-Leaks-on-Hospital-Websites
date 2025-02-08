@@ -74,4 +74,6 @@ Figure 2: Third-Party Data Requests
 (Insert chart showing third-party request patterns)
 
 Figure 3: Privacy Policy Visibility
+
+![Image](https://github.com/user-attachments/assets/203cbe3e-81a5-4cb4-a271-327b74499b76)
 (Insert graph comparing privacy policy accessibility across websites)
